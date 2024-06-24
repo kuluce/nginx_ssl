@@ -1,5 +1,10 @@
 # 使用说明
 
+# cfssl安装
+
+```bash
+$ go install github.com/cloudflare/cfssl/cmd/...@latest
+```
 
 ## 初始化
 
